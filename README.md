@@ -10,3 +10,5 @@ The dataset was explored to understand its structure and content. This included 
 
 #Data vizualization:
 Developed a comprehensive Tableau dashboard project leveraging advanced functionalities including user-defined parameters, calculated fields, sets, and bins to create dynamic visualizations. This interactive dashboard allows users to explore and analyze data dynamically, facilitating informed decision-making by providing actionable insights based on selected filters and prompts.
+
+Link the the tableau dashboard: https://public.tableau.com/app/profile/ritu.borad/viz/LondonBikeDataVizualisation/Dashboard1?publish=yes
